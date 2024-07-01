@@ -1,4 +1,4 @@
-OVIS-HPC Documentation
+SOS Documentation
 ########################
 
 This repository hosts all Ovis/LDMS related documentation such as how-to tutorials, getting started with LDMS, docker-hub links, LDMS API and much more. Documentation webpage can be found here: `ovis-hpc/readthedocs <https://ovis-hpc.readthedocs.io/en/latest/>`_
@@ -44,7 +44,7 @@ Rst files for man pages are generated using the pandoc_man_2_rst.py python file.
 Pandoc single file usage:
 
 
-..code-block:: RST
+.. code-block:: RST
 
     /usr/local/bin/pandoc -f man -s -t rst --toc {input.man} -o {output.rst}
 
