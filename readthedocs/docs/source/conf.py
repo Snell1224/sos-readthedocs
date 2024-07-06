@@ -25,6 +25,7 @@ intersphinx_mapping = {
     "ovis-hpc": ("https://ovis-hpc.readthedocs.io/en/latest/", None),
 }
 intersphinx_disabled_domains = ['std']
+intersphinx_disabled_reftypes = ["*"]
 
 templates_path = ['_templates']
 
