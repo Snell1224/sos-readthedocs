@@ -10,7 +10,7 @@
 
 Welcome To SOS Documentation!
 ====================================
-.. image:: ovis-hpc:images/ovis-hpc_homepage.png
+.. image:: ovis-hpc:_images/ovis-hpc_homepage.png
    :width: 1000
    :height: 150
 
