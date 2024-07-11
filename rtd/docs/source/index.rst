@@ -10,7 +10,7 @@
 
 Welcome To SOS Documentation!
 ====================================
-.. image:: ovis-hpc:_images/ovis-hpc_homepage.png
+.. image:: :ref:`<ovis-hpc:images/ovis-hpc_homepage.png>`
    :width: 1000
    :height: 150
 
@@ -33,6 +33,7 @@ The DSOS python API is the currently supported query syntax for the OVIS Web Ser
 
 .. toctree::
    :maxdepth: 2
+   :caption: Introduction to SOS
 
    sos-quickstart
    dsos-quickstart
