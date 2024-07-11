@@ -1,7 +1,7 @@
 OVIS-HPC SOS Documentation
 ########################
 
-This repository hosts all SOS related documentation such as how-to tutorials, getting started with SOS, docker-hub links, API's and much more. Documentation webpage can be found under the `SOS repository <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/>`_
+This repository hosts all SOS related documentation such as how-to tutorials, getting started with SOS, docker-hub links, API's and much more. Documentation webpage can be found in the `SOS readthedocs webpage <https://ovis-hpc-personal.readthedocs.io/projects/sos/en/latest/>`_
 
 Contributing to ReadTheDocs
 ############################
